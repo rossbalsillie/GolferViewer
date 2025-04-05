@@ -1,4 +1,4 @@
-﻿# Ignore Visual Studio temp files
+# Ignore Visual Studio temp files
 .vs/
 *.user
 *.suo

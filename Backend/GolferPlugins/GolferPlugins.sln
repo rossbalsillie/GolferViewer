@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolferPlugins", "GolferPlugins\GolferPlugins.csproj", "{F18FA857-55C2-44FA-9D3C-22CDA70038DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F18FA857-55C2-44FA-9D3C-22CDA70038DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18FA857-55C2-44FA-9D3C-22CDA70038DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18FA857-55C2-44FA-9D3C-22CDA70038DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18FA857-55C2-44FA-9D3C-22CDA70038DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {058C8FB3-3D1D-4821-8F63-99E7E612E867}
+	EndGlobalSection
+EndGlobal
